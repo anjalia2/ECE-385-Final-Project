@@ -1,0 +1,2257 @@
+10:28:13 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Desktop/lab6_1/lab6_1_sdk/IDE.log'.
+10:28:16 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Desktop\lab6_1\lab6_1_sdk\temp_xsdb_launch_script.tcl
+10:28:16 INFO  : Registering command handlers for Vitis TCF services
+10:28:17 INFO  : Platform repository initialization has completed.
+10:28:20 INFO  : XSCT server has started successfully.
+10:28:22 INFO  : Successfully done setting XSCT server connection channel  
+10:28:22 INFO  : plnx-install-location is set to ''
+10:28:22 INFO  : Successfully done query RDI_DATADIR 
+10:28:22 INFO  : Successfully done setting workspace for the tool. 
+10:29:56 INFO  : Result from executing command 'getProjects': mb_intro_top
+10:29:56 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+10:29:57 WARN  : An unexpected exception occurred in the module 'platform project logging'
+10:29:58 INFO  : Platform 'mb_intro_top' is added to custom repositories.
+10:30:02 INFO  : Platform 'mb_intro_top' is added to custom repositories.
+10:31:51 INFO  : Result from executing command 'getProjects': mb_intro_top
+10:31:51 INFO  : Result from executing command 'getPlatforms': mb_intro_top|C:/Users/anjalia2/Desktop/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/mb_intro_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+10:31:52 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+10:34:08 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+10:34:56 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+15:28:05 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/IDE.log'.
+15:28:06 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\temp_xsdb_launch_script.tcl
+15:28:08 INFO  : Registering command handlers for Vitis TCF services
+15:28:09 INFO  : Platform repository initialization has completed.
+15:28:10 INFO  : XSCT server has started successfully.
+15:28:13 INFO  : Successfully done setting XSCT server connection channel  
+15:28:13 INFO  : plnx-install-location is set to ''
+15:28:13 INFO  : Successfully done query RDI_DATADIR 
+15:28:13 INFO  : Successfully done setting workspace for the tool. 
+16:14:44 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/IDE.log'.
+16:14:45 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\temp_xsdb_launch_script.tcl
+16:14:47 INFO  : Registering command handlers for Vitis TCF services
+16:14:48 INFO  : XSCT server has started successfully.
+16:14:48 INFO  : Successfully done setting XSCT server connection channel  
+16:14:48 INFO  : plnx-install-location is set to ''
+16:14:48 INFO  : Platform repository initialization has completed.
+16:14:48 INFO  : Successfully done setting workspace for the tool. 
+16:14:48 INFO  : Successfully done query RDI_DATADIR 
+16:15:03 ERROR : Failed to update hardware specification for project 'mb_intro_top'.
+Reason: Failed to execute command 'platform config -updatehw {C:/Users/anjalia2/Desktop/lab6_1/mb_intro_top.xsa}'. Click on details for more information.
+16:15:25 INFO  : Hardware specification for platform project 'mb_intro_top' is updated.
+16:15:44 INFO  : Hardware specification for platform project 'mb_intro_top' is updated.
+16:18:48 INFO  : Result from executing command 'getProjects': mb_intro_top
+16:18:48 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+16:18:49 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+16:18:49 INFO  : Updating application flags with new BSP settings...
+16:18:49 INFO  : Successfully updated application flags for project mb_blink.
+16:18:52 INFO  : The hardware specification used by project 'mb_blink' is out of sync with the platform. Resource files extracted from the hardware specification will be updated.
+16:18:52 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.bit' stored in project is removed.
+16:18:52 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.mmi' stored in project is removed.
+16:18:52 INFO  : The updated bitstream files are copied from platform to folder 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream' in project 'mb_blink'.
+16:20:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:20:14 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+16:20:14 INFO  : 'jtag frequency' command is executed.
+16:20:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+16:20:16 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+16:20:16 INFO  : Context for processor 'microblaze_0' is selected.
+16:20:16 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+16:20:16 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+16:20:16 INFO  : Context for processor 'microblaze_0' is selected.
+16:20:16 INFO  : System reset is completed.
+16:20:19 INFO  : 'after 3000' command is executed.
+16:20:19 INFO  : Context for processor 'microblaze_0' is selected.
+16:20:19 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+16:20:19 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+16:20:19 INFO  : Context for processor 'microblaze_0' is selected.
+16:20:19 INFO  : 'con' command is executed.
+16:20:19 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+16:20:19 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:06:34 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:06:41 INFO  : Disconnected from the channel tcfchan#2.
+17:06:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:06:42 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:06:42 INFO  : 'jtag frequency' command is executed.
+17:06:42 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:06:43 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:06:43 INFO  : Context for processor 'microblaze_0' is selected.
+17:06:43 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:06:43 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:06:43 INFO  : Context for processor 'microblaze_0' is selected.
+17:06:43 INFO  : System reset is completed.
+17:06:46 INFO  : 'after 3000' command is executed.
+17:06:46 INFO  : Context for processor 'microblaze_0' is selected.
+17:06:46 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:06:46 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:06:46 INFO  : Context for processor 'microblaze_0' is selected.
+17:06:46 INFO  : 'con' command is executed.
+17:06:46 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:06:46 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:06:58 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:07:08 INFO  : Disconnected from the channel tcfchan#3.
+17:07:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:07:15 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:07:18 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+17:07:18 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+17:08:21 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:14:48 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:15:01 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:23:00 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:23:32 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:24:53 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:27:58 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:28:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:28:03 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:28:03 INFO  : 'jtag frequency' command is executed.
+17:28:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:28:04 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:28:05 INFO  : Context for processor 'microblaze_0' is selected.
+17:28:05 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:28:05 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:28:05 INFO  : Context for processor 'microblaze_0' is selected.
+17:28:05 INFO  : System reset is completed.
+17:28:08 INFO  : 'after 3000' command is executed.
+17:28:08 INFO  : Context for processor 'microblaze_0' is selected.
+17:28:08 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:28:08 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:28:08 INFO  : Context for processor 'microblaze_0' is selected.
+17:28:08 INFO  : 'con' command is executed.
+17:28:08 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:28:08 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:37:57 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:38:24 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:38:43 INFO  : Disconnected from the channel tcfchan#4.
+17:38:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:38:44 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:38:44 INFO  : 'jtag frequency' command is executed.
+17:38:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:38:45 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:38:45 INFO  : Context for processor 'microblaze_0' is selected.
+17:38:45 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:38:45 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:38:45 INFO  : Context for processor 'microblaze_0' is selected.
+17:38:45 INFO  : System reset is completed.
+17:38:49 INFO  : 'after 3000' command is executed.
+17:38:49 INFO  : Context for processor 'microblaze_0' is selected.
+17:38:49 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:38:49 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:38:49 INFO  : Context for processor 'microblaze_0' is selected.
+17:38:49 INFO  : 'con' command is executed.
+17:38:49 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:38:49 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:43:11 INFO  : Disconnected from the channel tcfchan#5.
+17:43:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:43:12 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:43:12 INFO  : 'jtag frequency' command is executed.
+17:43:12 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:43:13 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:43:13 INFO  : Context for processor 'microblaze_0' is selected.
+17:43:13 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:43:13 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:43:13 INFO  : Context for processor 'microblaze_0' is selected.
+17:43:13 INFO  : System reset is completed.
+17:43:16 INFO  : 'after 3000' command is executed.
+17:43:16 INFO  : Context for processor 'microblaze_0' is selected.
+17:43:16 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:43:16 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:43:17 INFO  : Context for processor 'microblaze_0' is selected.
+17:43:17 INFO  : 'con' command is executed.
+17:43:17 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:43:17 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:43:31 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:45:16 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:45:32 INFO  : Disconnected from the channel tcfchan#6.
+17:45:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:45:42 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+17:45:42 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+17:46:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:46:35 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:46:35 INFO  : 'jtag frequency' command is executed.
+17:46:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:46:36 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:46:36 INFO  : Context for processor 'microblaze_0' is selected.
+17:46:36 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:46:36 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:46:36 INFO  : Context for processor 'microblaze_0' is selected.
+17:46:36 INFO  : System reset is completed.
+17:46:39 INFO  : 'after 3000' command is executed.
+17:46:39 INFO  : Context for processor 'microblaze_0' is selected.
+17:46:40 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:46:40 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:46:40 INFO  : Context for processor 'microblaze_0' is selected.
+17:46:40 INFO  : 'con' command is executed.
+17:46:40 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:46:40 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:49:13 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:49:24 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:49:29 INFO  : Disconnected from the channel tcfchan#7.
+17:49:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:49:39 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+17:49:39 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+17:50:11 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:50:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:50:15 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:50:15 INFO  : 'jtag frequency' command is executed.
+17:50:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:50:16 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:50:16 INFO  : Context for processor 'microblaze_0' is selected.
+17:50:16 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:50:16 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:50:16 INFO  : Context for processor 'microblaze_0' is selected.
+17:50:16 INFO  : System reset is completed.
+17:50:19 INFO  : 'after 3000' command is executed.
+17:50:19 INFO  : Context for processor 'microblaze_0' is selected.
+17:50:19 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:50:19 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:50:19 INFO  : Context for processor 'microblaze_0' is selected.
+17:50:19 INFO  : 'con' command is executed.
+17:50:19 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:50:19 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:52:23 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:52:29 INFO  : Disconnected from the channel tcfchan#8.
+17:52:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:52:30 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:52:30 INFO  : 'jtag frequency' command is executed.
+17:52:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:52:31 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:52:31 INFO  : Context for processor 'microblaze_0' is selected.
+17:52:31 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:52:31 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:52:31 INFO  : Context for processor 'microblaze_0' is selected.
+17:52:31 INFO  : System reset is completed.
+17:52:34 INFO  : 'after 3000' command is executed.
+17:52:34 INFO  : Context for processor 'microblaze_0' is selected.
+17:52:34 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:52:34 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:52:34 INFO  : Context for processor 'microblaze_0' is selected.
+17:52:34 INFO  : 'con' command is executed.
+17:52:34 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:52:34 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+17:55:02 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:55:24 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:55:35 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:56:03 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+17:56:10 INFO  : Disconnected from the channel tcfchan#9.
+17:56:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:56:11 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:56:11 INFO  : 'jtag frequency' command is executed.
+17:56:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:56:13 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:56:13 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:13 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:56:13 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:56:13 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:13 INFO  : System reset is completed.
+17:56:16 INFO  : 'after 3000' command is executed.
+17:56:16 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:16 ERROR : Cannot stop MicroBlaze. MicroBlaze is held in reset
+17:56:16 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:56:16 ERROR : Cannot stop MicroBlaze. MicroBlaze is held in reset
+17:56:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:56:21 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+17:56:21 INFO  : 'jtag frequency' command is executed.
+17:56:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+17:56:23 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+17:56:23 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:23 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+17:56:23 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:56:23 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:23 INFO  : System reset is completed.
+17:56:26 INFO  : 'after 3000' command is executed.
+17:56:26 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:26 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+17:56:26 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+17:56:26 INFO  : Context for processor 'microblaze_0' is selected.
+17:56:26 INFO  : 'con' command is executed.
+17:56:26 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:56:26 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:04:37 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:04:50 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:04:56 INFO  : Disconnected from the channel tcfchan#10.
+18:04:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:05:06 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+18:05:06 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+18:05:34 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:05:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:05:37 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:05:37 INFO  : 'jtag frequency' command is executed.
+18:05:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:05:38 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:05:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:05:38 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:05:38 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:05:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:05:38 INFO  : System reset is completed.
+18:05:41 INFO  : 'after 3000' command is executed.
+18:05:41 INFO  : Context for processor 'microblaze_0' is selected.
+18:05:41 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:05:41 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:05:41 INFO  : Context for processor 'microblaze_0' is selected.
+18:05:41 INFO  : 'con' command is executed.
+18:05:41 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:05:41 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:06:45 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:06:50 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:06:55 INFO  : Disconnected from the channel tcfchan#11.
+18:06:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:06:56 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:06:56 INFO  : 'jtag frequency' command is executed.
+18:06:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:06:57 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:06:57 INFO  : Context for processor 'microblaze_0' is selected.
+18:06:57 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:06:57 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:06:57 INFO  : Context for processor 'microblaze_0' is selected.
+18:06:57 INFO  : System reset is completed.
+18:07:00 INFO  : 'after 3000' command is executed.
+18:07:00 INFO  : Context for processor 'microblaze_0' is selected.
+18:07:00 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:07:00 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:07:00 INFO  : Context for processor 'microblaze_0' is selected.
+18:07:00 INFO  : 'con' command is executed.
+18:07:00 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:07:00 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:09:07 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:09:21 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:09:24 INFO  : Disconnected from the channel tcfchan#12.
+18:09:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:09:26 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:09:26 INFO  : 'jtag frequency' command is executed.
+18:09:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:09:27 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:09:35 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:35 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:09:35 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:09:35 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:35 INFO  : System reset is completed.
+18:09:38 INFO  : 'after 3000' command is executed.
+18:09:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:38 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:09:38 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:09:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:38 INFO  : 'con' command is executed.
+18:09:38 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:09:38 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:09:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:09:41 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:09:41 INFO  : 'jtag frequency' command is executed.
+18:09:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:09:43 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:09:43 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:43 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:09:43 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:09:43 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:43 INFO  : System reset is completed.
+18:09:46 INFO  : 'after 3000' command is executed.
+18:09:46 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:46 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:09:46 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:09:46 INFO  : Context for processor 'microblaze_0' is selected.
+18:09:46 INFO  : 'con' command is executed.
+18:09:46 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:09:46 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:10:12 INFO  : Disconnected from the channel tcfchan#13.
+18:10:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:10:14 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:10:14 INFO  : 'jtag frequency' command is executed.
+18:10:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:10:15 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:10:15 INFO  : Context for processor 'microblaze_0' is selected.
+18:10:15 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:10:15 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:10:15 INFO  : Context for processor 'microblaze_0' is selected.
+18:10:15 INFO  : System reset is completed.
+18:10:18 INFO  : 'after 3000' command is executed.
+18:10:18 INFO  : Context for processor 'microblaze_0' is selected.
+18:10:18 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:10:18 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:10:18 INFO  : Context for processor 'microblaze_0' is selected.
+18:10:18 INFO  : 'con' command is executed.
+18:10:18 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:10:18 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:11:47 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:16:27 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:17:07 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:17:13 WARN  : channel "tcfchan#13" closed
+18:17:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:17:14 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:17:14 INFO  : 'jtag frequency' command is executed.
+18:17:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:17:16 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:17:16 INFO  : Context for processor 'microblaze_0' is selected.
+18:17:16 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:17:16 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:17:16 INFO  : Context for processor 'microblaze_0' is selected.
+18:17:16 INFO  : System reset is completed.
+18:17:19 INFO  : 'after 3000' command is executed.
+18:17:19 INFO  : Context for processor 'microblaze_0' is selected.
+18:17:19 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:17:19 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:17:19 INFO  : Context for processor 'microblaze_0' is selected.
+18:17:19 INFO  : 'con' command is executed.
+18:17:19 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:17:19 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:19:13 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:19:28 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:22:56 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:26:41 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:32:33 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:32:39 INFO  : Disconnected from the channel tcfchan#14.
+18:32:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:32:40 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:32:40 INFO  : 'jtag frequency' command is executed.
+18:32:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:32:41 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:32:41 INFO  : Context for processor 'microblaze_0' is selected.
+18:32:41 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:32:41 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:32:41 INFO  : Context for processor 'microblaze_0' is selected.
+18:32:41 INFO  : System reset is completed.
+18:32:44 INFO  : 'after 3000' command is executed.
+18:32:44 INFO  : Context for processor 'microblaze_0' is selected.
+18:32:44 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:32:44 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:32:44 INFO  : Context for processor 'microblaze_0' is selected.
+18:32:44 INFO  : 'con' command is executed.
+18:32:44 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:32:44 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:33:26 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:34:40 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:34:46 WARN  : channel "tcfchan#14" closed
+18:34:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:34:47 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:34:47 INFO  : 'jtag frequency' command is executed.
+18:34:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:34:49 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:34:49 INFO  : Context for processor 'microblaze_0' is selected.
+18:34:49 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:34:49 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:34:49 INFO  : Context for processor 'microblaze_0' is selected.
+18:34:49 INFO  : System reset is completed.
+18:34:52 INFO  : 'after 3000' command is executed.
+18:34:52 INFO  : Context for processor 'microblaze_0' is selected.
+18:34:52 ERROR : Cannot stop MicroBlaze. MicroBlaze is held in reset
+18:34:52 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:34:52 ERROR : Cannot stop MicroBlaze. MicroBlaze is held in reset
+18:34:58 INFO  : Disconnected from the channel tcfchan#15.
+18:34:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:35:08 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+18:35:08 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+18:35:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:35:16 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:35:16 INFO  : 'jtag frequency' command is executed.
+18:35:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:35:17 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:35:17 INFO  : Context for processor 'microblaze_0' is selected.
+18:35:17 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:35:17 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:35:17 INFO  : Context for processor 'microblaze_0' is selected.
+18:35:17 INFO  : System reset is completed.
+18:35:20 INFO  : 'after 3000' command is executed.
+18:35:20 INFO  : Context for processor 'microblaze_0' is selected.
+18:35:20 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:35:20 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:35:20 INFO  : Context for processor 'microblaze_0' is selected.
+18:35:20 INFO  : 'con' command is executed.
+18:35:20 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:35:20 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:36:06 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:36:11 INFO  : Disconnected from the channel tcfchan#16.
+18:36:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:36:21 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+18:36:21 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+18:36:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:36:28 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:36:28 INFO  : 'jtag frequency' command is executed.
+18:36:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:36:30 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:36:30 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:30 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:36:30 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:36:30 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:30 INFO  : System reset is completed.
+18:36:33 INFO  : 'after 3000' command is executed.
+18:36:33 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:33 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:36:33 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:36:33 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:33 INFO  : 'con' command is executed.
+18:36:33 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:36:33 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:36:50 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:36:55 INFO  : Disconnected from the channel tcfchan#17.
+18:36:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:36:56 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:36:56 INFO  : 'jtag frequency' command is executed.
+18:36:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:36:58 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:36:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:58 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:36:58 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:36:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:36:58 INFO  : System reset is completed.
+18:37:01 INFO  : 'after 3000' command is executed.
+18:37:01 INFO  : Context for processor 'microblaze_0' is selected.
+18:37:01 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:37:01 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:37:01 INFO  : Context for processor 'microblaze_0' is selected.
+18:37:01 INFO  : 'con' command is executed.
+18:37:01 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:37:01 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:40:23 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:40:29 INFO  : Disconnected from the channel tcfchan#18.
+18:40:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:40:39 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+18:40:39 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+18:40:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:40:47 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:40:47 INFO  : 'jtag frequency' command is executed.
+18:40:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:40:48 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:40:48 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:48 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:40:48 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:40:48 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:48 INFO  : System reset is completed.
+18:40:52 INFO  : 'after 3000' command is executed.
+18:40:52 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:52 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:40:52 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:40:52 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:52 INFO  : 'con' command is executed.
+18:40:52 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:40:52 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:41:44 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:41:52 INFO  : Disconnected from the channel tcfchan#19.
+18:41:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:42:02 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+18:42:02 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+18:42:36 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:42:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:42:38 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:42:38 INFO  : 'jtag frequency' command is executed.
+18:42:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:42:39 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:42:39 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:39 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:42:39 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:42:39 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:39 INFO  : System reset is completed.
+18:42:42 INFO  : 'after 3000' command is executed.
+18:42:42 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:42 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:42:42 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:42:42 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:42 INFO  : 'con' command is executed.
+18:42:42 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:42:42 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:42:52 INFO  : Disconnected from the channel tcfchan#20.
+18:42:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:42:54 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:42:54 INFO  : 'jtag frequency' command is executed.
+18:42:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:42:55 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:42:55 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:55 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:42:55 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:42:55 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:55 INFO  : System reset is completed.
+18:42:58 INFO  : 'after 3000' command is executed.
+18:42:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:58 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:42:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:42:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:42:58 INFO  : 'con' command is executed.
+18:42:58 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:42:58 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:45:35 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:45:39 INFO  : Disconnected from the channel tcfchan#21.
+18:45:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:45:40 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:45:40 INFO  : 'jtag frequency' command is executed.
+18:45:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:45:42 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:45:42 INFO  : Context for processor 'microblaze_0' is selected.
+18:45:42 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:45:42 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:45:42 INFO  : Context for processor 'microblaze_0' is selected.
+18:45:42 INFO  : System reset is completed.
+18:45:45 INFO  : 'after 3000' command is executed.
+18:45:45 INFO  : Context for processor 'microblaze_0' is selected.
+18:45:45 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:45:45 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:45:45 INFO  : Context for processor 'microblaze_0' is selected.
+18:45:45 INFO  : 'con' command is executed.
+18:45:45 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:45:45 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:46:54 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:47:00 INFO  : Disconnected from the channel tcfchan#22.
+18:47:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:47:01 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:47:01 INFO  : 'jtag frequency' command is executed.
+18:47:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:47:03 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:47:03 INFO  : Context for processor 'microblaze_0' is selected.
+18:47:03 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:47:03 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:47:03 INFO  : Context for processor 'microblaze_0' is selected.
+18:47:03 INFO  : System reset is completed.
+18:47:06 INFO  : 'after 3000' command is executed.
+18:47:06 INFO  : Context for processor 'microblaze_0' is selected.
+18:47:06 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:47:06 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:47:06 INFO  : Context for processor 'microblaze_0' is selected.
+18:47:06 INFO  : 'con' command is executed.
+18:47:06 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:47:06 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:47:50 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:48:05 INFO  : Disconnected from the channel tcfchan#23.
+18:48:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:48:06 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:48:06 INFO  : 'jtag frequency' command is executed.
+18:48:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:48:07 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:48:07 INFO  : Context for processor 'microblaze_0' is selected.
+18:48:07 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:48:07 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:48:07 INFO  : Context for processor 'microblaze_0' is selected.
+18:48:07 INFO  : System reset is completed.
+18:48:10 INFO  : 'after 3000' command is executed.
+18:48:10 INFO  : Context for processor 'microblaze_0' is selected.
+18:48:10 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:48:10 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:48:11 INFO  : Context for processor 'microblaze_0' is selected.
+18:48:11 INFO  : 'con' command is executed.
+18:48:11 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:48:11 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:49:03 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:49:10 INFO  : Disconnected from the channel tcfchan#24.
+18:49:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:49:11 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:49:11 INFO  : 'jtag frequency' command is executed.
+18:49:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:49:12 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:49:12 INFO  : Context for processor 'microblaze_0' is selected.
+18:49:12 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:49:12 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:49:12 INFO  : Context for processor 'microblaze_0' is selected.
+18:49:12 INFO  : System reset is completed.
+18:49:15 INFO  : 'after 3000' command is executed.
+18:49:15 INFO  : Context for processor 'microblaze_0' is selected.
+18:49:15 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:49:15 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:49:15 INFO  : Context for processor 'microblaze_0' is selected.
+18:49:15 INFO  : 'con' command is executed.
+18:49:15 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:49:15 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:50:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:54:51 INFO  : Disconnected from the channel tcfchan#25.
+18:55:07 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:55:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:55:18 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+18:55:18 INFO  : 'jtag frequency' command is executed.
+18:55:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+18:55:20 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+18:55:20 INFO  : Context for processor 'microblaze_0' is selected.
+18:55:20 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+18:55:20 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:55:20 INFO  : Context for processor 'microblaze_0' is selected.
+18:55:20 INFO  : System reset is completed.
+18:55:23 INFO  : 'after 3000' command is executed.
+18:55:23 INFO  : Context for processor 'microblaze_0' is selected.
+18:55:23 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+18:55:23 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+18:55:23 INFO  : Context for processor 'microblaze_0' is selected.
+18:55:23 INFO  : 'con' command is executed.
+18:55:23 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:55:23 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+18:56:09 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+18:58:19 INFO  : Disconnected from the channel tcfchan#26.
+19:03:00 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/IDE.log'.
+19:03:00 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\temp_xsdb_launch_script.tcl
+19:03:04 INFO  : Registering command handlers for Vitis TCF services
+19:03:04 INFO  : XSCT server has started successfully.
+19:03:04 INFO  : Successfully done setting XSCT server connection channel  
+19:03:04 INFO  : plnx-install-location is set to ''
+19:03:04 INFO  : Successfully done query RDI_DATADIR 
+19:03:04 INFO  : Successfully done setting workspace for the tool. 
+19:03:04 INFO  : Platform repository initialization has completed.
+19:04:04 INFO  : Result from executing command 'getProjects': mb_intro_top
+19:04:04 INFO  : Result from executing command 'getPlatforms': mb_intro_top|C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/mb_intro_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+19:04:05 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:07:23 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:07:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:07:32 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:07:32 INFO  : 'jtag frequency' command is executed.
+19:07:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:07:33 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:07:34 INFO  : Context for processor 'microblaze_0' is selected.
+19:07:34 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:07:34 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:07:34 INFO  : Context for processor 'microblaze_0' is selected.
+19:07:34 INFO  : System reset is completed.
+19:07:37 INFO  : 'after 3000' command is executed.
+19:07:37 INFO  : Context for processor 'microblaze_0' is selected.
+19:07:37 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:07:37 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:07:37 INFO  : Context for processor 'microblaze_0' is selected.
+19:07:37 INFO  : 'con' command is executed.
+19:07:37 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:07:37 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:08:17 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:09:02 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:09:26 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:11:40 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/IDE.log'.
+19:11:40 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\temp_xsdb_launch_script.tcl
+19:11:43 INFO  : Registering command handlers for Vitis TCF services
+19:11:43 INFO  : XSCT server has started successfully.
+19:11:43 INFO  : Successfully done setting XSCT server connection channel  
+19:11:43 INFO  : plnx-install-location is set to ''
+19:11:43 INFO  : Successfully done query RDI_DATADIR 
+19:11:43 INFO  : Successfully done setting workspace for the tool. 
+19:11:44 INFO  : Platform repository initialization has completed.
+19:11:57 INFO  : Result from executing command 'getProjects': mb_intro_top
+19:11:57 INFO  : Result from executing command 'getPlatforms': mb_intro_top|C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/mb_intro_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+19:11:58 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:12:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:12:13 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:12:13 INFO  : 'jtag frequency' command is executed.
+19:12:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:12:14 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:12:15 INFO  : Context for processor 'microblaze_0' is selected.
+19:12:15 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:12:15 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:12:15 INFO  : Context for processor 'microblaze_0' is selected.
+19:12:15 INFO  : System reset is completed.
+19:12:18 INFO  : 'after 3000' command is executed.
+19:12:18 INFO  : Context for processor 'microblaze_0' is selected.
+19:12:18 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:12:18 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:12:18 INFO  : Context for processor 'microblaze_0' is selected.
+19:12:18 INFO  : 'con' command is executed.
+19:12:18 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:12:18 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:15:26 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:15:39 INFO  : Disconnected from the channel tcfchan#2.
+19:15:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:15:40 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:15:40 INFO  : 'jtag frequency' command is executed.
+19:15:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:15:42 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:15:42 INFO  : Context for processor 'microblaze_0' is selected.
+19:15:42 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:15:42 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:15:42 INFO  : Context for processor 'microblaze_0' is selected.
+19:15:42 INFO  : System reset is completed.
+19:15:45 INFO  : 'after 3000' command is executed.
+19:15:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:15:45 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:15:45 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:15:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:15:45 INFO  : 'con' command is executed.
+19:15:45 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:15:45 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:16:30 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:16:38 INFO  : Disconnected from the channel tcfchan#3.
+19:16:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:16:48 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+19:16:48 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+19:17:14 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:17:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:17:19 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:17:19 INFO  : 'jtag frequency' command is executed.
+19:17:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:17:21 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:17:21 INFO  : Context for processor 'microblaze_0' is selected.
+19:17:21 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:17:21 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:17:21 INFO  : Context for processor 'microblaze_0' is selected.
+19:17:21 INFO  : System reset is completed.
+19:17:24 INFO  : 'after 3000' command is executed.
+19:17:24 INFO  : Context for processor 'microblaze_0' is selected.
+19:17:24 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:17:24 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:17:24 INFO  : Context for processor 'microblaze_0' is selected.
+19:17:24 INFO  : 'con' command is executed.
+19:17:24 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:17:24 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:18:32 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:18:48 INFO  : Disconnected from the channel tcfchan#4.
+19:18:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:18:49 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:18:49 INFO  : 'jtag frequency' command is executed.
+19:18:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:18:50 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:18:50 INFO  : Context for processor 'microblaze_0' is selected.
+19:18:50 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:18:50 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:18:50 INFO  : Context for processor 'microblaze_0' is selected.
+19:18:50 INFO  : System reset is completed.
+19:18:53 INFO  : 'after 3000' command is executed.
+19:18:53 INFO  : Context for processor 'microblaze_0' is selected.
+19:18:53 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:18:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:18:53 INFO  : Context for processor 'microblaze_0' is selected.
+19:18:53 INFO  : 'con' command is executed.
+19:18:53 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:18:53 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:33:45 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:34:18 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:34:42 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:34:50 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:35:30 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:35:55 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:36:06 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:36:37 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:37:16 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:37:26 INFO  : Disconnected from the channel tcfchan#5.
+19:37:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:37:27 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:37:27 INFO  : 'jtag frequency' command is executed.
+19:37:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:37:29 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:37:29 INFO  : Context for processor 'microblaze_0' is selected.
+19:37:29 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:37:29 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:37:29 INFO  : Context for processor 'microblaze_0' is selected.
+19:37:29 INFO  : System reset is completed.
+19:37:32 INFO  : 'after 3000' command is executed.
+19:37:32 INFO  : Context for processor 'microblaze_0' is selected.
+19:37:32 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:37:32 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:37:32 INFO  : Context for processor 'microblaze_0' is selected.
+19:37:32 INFO  : 'con' command is executed.
+19:37:32 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:37:32 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:39:59 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:40:08 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:40:17 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:40:29 INFO  : Disconnected from the channel tcfchan#6.
+19:40:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:40:30 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:40:30 INFO  : 'jtag frequency' command is executed.
+19:40:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:40:32 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:40:32 INFO  : Context for processor 'microblaze_0' is selected.
+19:40:32 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:40:32 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:40:32 INFO  : Context for processor 'microblaze_0' is selected.
+19:40:32 INFO  : System reset is completed.
+19:40:35 INFO  : 'after 3000' command is executed.
+19:40:35 INFO  : Context for processor 'microblaze_0' is selected.
+19:40:35 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:40:35 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:40:35 INFO  : Context for processor 'microblaze_0' is selected.
+19:40:35 INFO  : 'con' command is executed.
+19:40:35 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:40:35 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:43:01 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:43:13 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:43:23 INFO  : Disconnected from the channel tcfchan#7.
+19:43:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:43:33 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+19:43:33 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+19:43:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:43:41 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:43:41 INFO  : 'jtag frequency' command is executed.
+19:43:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:43:42 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:43:42 INFO  : Context for processor 'microblaze_0' is selected.
+19:43:42 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:43:42 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:43:42 INFO  : Context for processor 'microblaze_0' is selected.
+19:43:42 INFO  : System reset is completed.
+19:43:45 INFO  : 'after 3000' command is executed.
+19:43:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:43:45 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:43:45 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:43:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:43:45 INFO  : 'con' command is executed.
+19:43:45 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:43:45 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:44:33 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:44:43 INFO  : Disconnected from the channel tcfchan#8.
+19:44:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:44:44 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:44:44 INFO  : 'jtag frequency' command is executed.
+19:44:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:44:45 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:44:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:44:45 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:44:45 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:44:45 INFO  : Context for processor 'microblaze_0' is selected.
+19:44:45 INFO  : System reset is completed.
+19:44:48 INFO  : 'after 3000' command is executed.
+19:44:48 INFO  : Context for processor 'microblaze_0' is selected.
+19:44:48 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:44:48 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:44:48 INFO  : Context for processor 'microblaze_0' is selected.
+19:44:48 INFO  : 'con' command is executed.
+19:44:48 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:44:48 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+19:50:26 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+19:50:32 INFO  : Disconnected from the channel tcfchan#9.
+19:50:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:50:33 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+19:50:33 INFO  : 'jtag frequency' command is executed.
+19:50:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+19:50:35 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+19:50:35 INFO  : Context for processor 'microblaze_0' is selected.
+19:50:35 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+19:50:35 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:50:35 INFO  : Context for processor 'microblaze_0' is selected.
+19:50:35 INFO  : System reset is completed.
+19:50:38 INFO  : 'after 3000' command is executed.
+19:50:38 INFO  : Context for processor 'microblaze_0' is selected.
+19:50:38 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+19:50:38 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+19:50:38 INFO  : Context for processor 'microblaze_0' is selected.
+19:50:38 INFO  : 'con' command is executed.
+19:50:38 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+19:50:38 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:01:39 INFO  : Hardware specification for platform project 'mb_intro_top' is updated.
+20:02:01 INFO  : Result from executing command 'getProjects': mb_intro_top
+20:02:01 INFO  : Result from executing command 'getPlatforms': mb_intro_top|C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/mb_intro_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+20:02:09 INFO  : Disconnected from the channel tcfchan#10.
+20:02:10 INFO  : The hardware specification used by project 'mb_blink' is out of sync with the platform. Resource files extracted from the hardware specification will be updated.
+20:02:10 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.bit' stored in project is removed.
+20:02:10 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.mmi' stored in project is removed.
+20:02:10 INFO  : The updated bitstream files are copied from platform to folder 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream' in project 'mb_blink'.
+20:02:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:02:10 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:02:10 INFO  : 'jtag frequency' command is executed.
+20:02:13 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:02:13 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:02:13 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:02:13 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:02:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:02:38 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:02:38 INFO  : 'jtag frequency' command is executed.
+20:02:41 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:02:41 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:02:41 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:02:41 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:03:23 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:03:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:03:37 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:03:37 INFO  : 'jtag frequency' command is executed.
+20:03:40 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:03:40 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:03:40 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:03:40 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:04:59 INFO  : Hardware specification for platform project 'mb_intro_top' is updated.
+20:05:13 INFO  : Result from executing command 'getProjects': mb_intro_top
+20:05:13 INFO  : Result from executing command 'getPlatforms': mb_intro_top|C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/mb_intro_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+20:05:14 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:05:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:05:20 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:05:20 INFO  : 'jtag frequency' command is executed.
+20:05:23 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:05:24 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:05:24 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:05:24 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:09:20 INFO  : Hardware specification for platform project 'mb_intro_top' is updated.
+20:09:51 INFO  : Result from executing command 'getProjects': mb_intro_top
+20:09:51 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+20:09:52 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:09:54 INFO  : The hardware specification used by project 'mb_blink' is out of sync with the platform. Resource files extracted from the hardware specification will be updated.
+20:09:54 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.bit' stored in project is removed.
+20:09:54 INFO  : The file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream\mb_intro_top.mmi' stored in project is removed.
+20:09:54 INFO  : The updated bitstream files are copied from platform to folder 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink\_ide\bitstream' in project 'mb_blink'.
+20:10:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:10:02 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:10:02 INFO  : 'jtag frequency' command is executed.
+20:10:05 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:10:05 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:10:05 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:10:05 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:10:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:10:50 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:10:50 INFO  : 'jtag frequency' command is executed.
+20:10:53 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:10:53 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:10:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:10:53 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:12:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:12:54 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:12:54 INFO  : 'jtag frequency' command is executed.
+20:12:58 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:12:58 ERROR : Exception occured while running Program Device.
+java.lang.RuntimeException: no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:12:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:12:58 ERROR : no targets found with "jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"". available targets:
+  1  xc7s50
+     2  MicroBlaze Debug Module at USER2
+        3  MicroBlaze #0 (Running)
+20:14:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:14:23 INFO  : Jtag cable 'RealDigital Boo 887100000001A' is selected.
+20:14:23 INFO  : 'jtag frequency' command is executed.
+20:14:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000001A" && level==0 && jtag_device_ctx=="jsn3-0362f093-0"}' command is executed.
+20:14:24 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:14:24 INFO  : Context for processor 'microblaze_0' is selected.
+20:14:24 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:14:24 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:14:24 INFO  : Context for processor 'microblaze_0' is selected.
+20:14:24 INFO  : System reset is completed.
+20:14:28 INFO  : 'after 3000' command is executed.
+20:14:28 INFO  : Context for processor 'microblaze_0' is selected.
+20:14:28 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:14:28 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000001A" && level==0 && jtag_device_ctx=="jsn3-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:14:28 INFO  : Context for processor 'microblaze_0' is selected.
+20:14:28 INFO  : 'con' command is executed.
+20:14:28 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:14:28 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:15:28 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:15:36 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:15:43 INFO  : Disconnected from the channel tcfchan#12.
+20:15:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:15:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:15:53 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+20:16:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:16:01 INFO  : Jtag cable 'RealDigital Boo 887100000001A' is selected.
+20:16:01 INFO  : 'jtag frequency' command is executed.
+20:16:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000001A" && level==0 && jtag_device_ctx=="jsn3-0362f093-0"}' command is executed.
+20:16:02 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:16:02 INFO  : Context for processor 'microblaze_0' is selected.
+20:16:02 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:16:02 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:16:02 INFO  : Context for processor 'microblaze_0' is selected.
+20:16:02 INFO  : System reset is completed.
+20:16:05 INFO  : 'after 3000' command is executed.
+20:16:05 INFO  : Context for processor 'microblaze_0' is selected.
+20:16:05 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:16:05 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000001A" && level==0 && jtag_device_ctx=="jsn3-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:16:05 INFO  : Context for processor 'microblaze_0' is selected.
+20:16:05 INFO  : 'con' command is executed.
+20:16:05 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:16:05 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:18:22 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:18:27 INFO  : Disconnected from the channel tcfchan#15.
+20:18:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:18:28 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:18:28 INFO  : 'jtag frequency' command is executed.
+20:18:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:18:29 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:18:29 INFO  : Context for processor 'microblaze_0' is selected.
+20:18:29 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:18:29 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:18:29 INFO  : Context for processor 'microblaze_0' is selected.
+20:18:29 INFO  : System reset is completed.
+20:18:32 INFO  : 'after 3000' command is executed.
+20:18:32 INFO  : Context for processor 'microblaze_0' is selected.
+20:18:32 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:18:32 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:18:32 INFO  : Context for processor 'microblaze_0' is selected.
+20:18:32 INFO  : 'con' command is executed.
+20:18:32 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:18:32 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:20:08 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:20:13 INFO  : Disconnected from the channel tcfchan#16.
+20:20:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:20:15 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:20:15 INFO  : 'jtag frequency' command is executed.
+20:20:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:20:16 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:20:16 INFO  : Context for processor 'microblaze_0' is selected.
+20:20:16 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:20:16 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:20:16 INFO  : Context for processor 'microblaze_0' is selected.
+20:20:16 INFO  : System reset is completed.
+20:20:19 INFO  : 'after 3000' command is executed.
+20:20:19 INFO  : Context for processor 'microblaze_0' is selected.
+20:20:19 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:20:19 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:20:19 INFO  : Context for processor 'microblaze_0' is selected.
+20:20:19 INFO  : 'con' command is executed.
+20:20:19 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:20:19 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:22:06 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:22:22 INFO  : Disconnected from the channel tcfchan#17.
+20:22:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:22:23 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:22:23 INFO  : 'jtag frequency' command is executed.
+20:22:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:22:24 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:22:24 INFO  : Context for processor 'microblaze_0' is selected.
+20:22:24 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:22:24 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:22:24 INFO  : Context for processor 'microblaze_0' is selected.
+20:22:24 INFO  : System reset is completed.
+20:22:27 INFO  : 'after 3000' command is executed.
+20:22:27 INFO  : Context for processor 'microblaze_0' is selected.
+20:22:27 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:22:27 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:22:28 INFO  : Context for processor 'microblaze_0' is selected.
+20:22:28 INFO  : 'con' command is executed.
+20:22:28 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:22:28 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:22:54 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:22:59 INFO  : Disconnected from the channel tcfchan#18.
+20:23:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:23:09 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+----------------End of Script----------------
+
+20:23:09 ERROR : Could not find FPGA device on the board for connection 'Local'.
+
+
+Troubleshooting hints:
+1. Check whether board is connected to system properly.
+2. In case of zynq board, check whether Digilent/Xilinx cable switch settings are correct.
+3. If you are using Xilinx Platform Cable USB, ensure that status LED is green.
+20:23:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:23:13 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:23:13 INFO  : 'jtag frequency' command is executed.
+20:23:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:23:14 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:23:14 INFO  : Context for processor 'microblaze_0' is selected.
+20:23:14 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:23:14 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:23:14 INFO  : Context for processor 'microblaze_0' is selected.
+20:23:14 INFO  : System reset is completed.
+20:23:17 INFO  : 'after 3000' command is executed.
+20:23:17 INFO  : Context for processor 'microblaze_0' is selected.
+20:23:17 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:23:17 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:23:17 INFO  : Context for processor 'microblaze_0' is selected.
+20:23:17 INFO  : 'con' command is executed.
+20:23:17 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:23:17 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:26:41 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:26:52 INFO  : Disconnected from the channel tcfchan#19.
+20:26:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:26:53 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:26:53 INFO  : 'jtag frequency' command is executed.
+20:26:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:26:55 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:26:55 INFO  : Context for processor 'microblaze_0' is selected.
+20:26:55 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:26:55 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:26:55 INFO  : Context for processor 'microblaze_0' is selected.
+20:26:55 INFO  : System reset is completed.
+20:26:58 INFO  : 'after 3000' command is executed.
+20:26:58 INFO  : Context for processor 'microblaze_0' is selected.
+20:26:58 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:26:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:26:58 INFO  : Context for processor 'microblaze_0' is selected.
+20:26:58 INFO  : 'con' command is executed.
+20:26:58 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:26:58 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+20:30:00 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+20:30:07 INFO  : Disconnected from the channel tcfchan#20.
+20:30:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:30:08 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+20:30:08 INFO  : 'jtag frequency' command is executed.
+20:30:08 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}' command is executed.
+20:30:09 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+20:30:10 INFO  : Context for processor 'microblaze_0' is selected.
+20:30:10 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+20:30:10 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:30:10 INFO  : Context for processor 'microblaze_0' is selected.
+20:30:10 INFO  : System reset is completed.
+20:30:13 INFO  : 'after 3000' command is executed.
+20:30:13 INFO  : Context for processor 'microblaze_0' is selected.
+20:30:13 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+20:30:13 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn2-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+20:30:13 INFO  : Context for processor 'microblaze_0' is selected.
+20:30:13 INFO  : 'con' command is executed.
+20:30:13 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+20:30:13 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+11:07:50 DEBUG : Logs will be stored at 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/IDE.log'.
+11:07:50 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\anjalia2\Documents\lab6_1_final\lab6_1_sdk\temp_xsdb_launch_script.tcl
+11:07:53 INFO  : XSCT server has started successfully.
+11:07:53 INFO  : Successfully done setting XSCT server connection channel  
+11:07:53 INFO  : plnx-install-location is set to ''
+11:07:53 INFO  : Successfully done setting workspace for the tool. 
+11:07:54 INFO  : Registering command handlers for Vitis TCF services
+11:07:54 INFO  : Successfully done query RDI_DATADIR 
+11:07:54 INFO  : Platform repository initialization has completed.
+11:08:12 INFO  : Result from executing command 'getProjects': mb_intro_top
+11:08:12 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+11:08:13 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+11:08:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:08:22 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+11:08:22 INFO  : 'jtag frequency' command is executed.
+11:08:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+11:08:24 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+11:08:24 INFO  : Context for processor 'microblaze_0' is selected.
+11:08:24 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+11:08:24 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+11:08:24 INFO  : Context for processor 'microblaze_0' is selected.
+11:08:24 INFO  : System reset is completed.
+11:08:27 INFO  : 'after 3000' command is executed.
+11:08:27 INFO  : Context for processor 'microblaze_0' is selected.
+11:08:27 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+11:08:27 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+11:08:27 INFO  : Context for processor 'microblaze_0' is selected.
+11:08:27 INFO  : 'con' command is executed.
+11:08:27 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+11:08:27 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1_final\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+11:10:39 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+11:10:46 INFO  : Disconnected from the channel tcfchan#2.
+11:10:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:10:47 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+11:10:47 INFO  : 'jtag frequency' command is executed.
+11:10:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+11:10:48 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+11:10:48 INFO  : Context for processor 'microblaze_0' is selected.
+11:10:48 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+11:10:48 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+11:10:48 INFO  : Context for processor 'microblaze_0' is selected.
+11:10:48 INFO  : System reset is completed.
+11:10:51 INFO  : 'after 3000' command is executed.
+11:10:51 INFO  : Context for processor 'microblaze_0' is selected.
+11:10:51 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+11:10:51 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+11:10:51 INFO  : Context for processor 'microblaze_0' is selected.
+11:10:51 INFO  : 'con' command is executed.
+11:10:51 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+11:10:51 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1_final\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+11:15:08 INFO  : Checking for BSP changes to sync application flags for project 'mb_blink'...
+11:15:15 INFO  : Disconnected from the channel tcfchan#3.
+11:15:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:15:16 INFO  : Jtag cable 'RealDigital Boo 887100000003A' is selected.
+11:15:16 INFO  : 'jtag frequency' command is executed.
+11:15:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+11:15:17 INFO  : Device configured successfully with "C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit"
+11:15:17 INFO  : Context for processor 'microblaze_0' is selected.
+11:15:17 INFO  : Hardware design and registers information is loaded from 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa'.
+11:15:17 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+11:15:17 INFO  : Context for processor 'microblaze_0' is selected.
+11:15:17 INFO  : System reset is completed.
+11:15:20 INFO  : 'after 3000' command is executed.
+11:15:20 INFO  : Context for processor 'microblaze_0' is selected.
+11:15:20 INFO  : The application 'C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf' is downloaded to processor 'microblaze_0'.
+11:15:20 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 887100000003A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/_ide/bitstream/mb_intro_top.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_intro_top/export/mb_intro_top/hw/mb_intro_top.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/anjalia2/Documents/lab6_1_final/lab6_1_sdk/mb_blink/Debug/mb_blink.elf
+----------------End of Script----------------
+
+11:15:20 INFO  : Context for processor 'microblaze_0' is selected.
+11:15:20 INFO  : 'con' command is executed.
+11:15:20 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+11:15:20 INFO  : Launch script is exported to file 'C:\Users\anjalia2\Documents\lab6_1_final\lab6_1_sdk\mb_blink_system\_ide\scripts\debugger_mb_blink-default.tcl'
+11:17:35 INFO  : Disconnected from the channel tcfchan#4.
